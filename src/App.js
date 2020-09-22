@@ -40,7 +40,7 @@ const App = () => {
         <ListItem response = {data} />
       </div>
     </div>
-  );
+  )
 };
 
 const ListItem = (props) => {
