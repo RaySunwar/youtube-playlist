@@ -2,9 +2,9 @@ This repository was created with CRA [Create React App] and it contains all the 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can use:
 
-### `git clone https://github.com/RaySunwar/youtube-playlist.git`
+#### `git clone https://github.com/RaySunwar/youtube-playlist.git`
 To clone the repository in local environment.
 
 ### `yarn install`
