@@ -1,4 +1,4 @@
-This repository was created with CRA [Create React App] and it contains all the files related to YouTube-Playlist app. This app(wha-playlist) is helpful for checking youtube playlist of WHA Warriors.
+This repository was created with CRA [Create React App] and it contains all the files related to YouTube-Playlist app. This app is helpful for checking youtube playlist of users.
 
 ## Available Scripts
 
