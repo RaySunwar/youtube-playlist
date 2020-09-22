@@ -30,7 +30,6 @@ const App = () => {
 
   return(
     <div className={styles.container} >
-          <div className={styles.container} >
       <h1><a href="http://localhost:3000/"> YouTube <AiFillYoutube /> Playlist</a></h1>
       <form className={styles.ytubeform}>
         <input ref={inputRef} className={styles.ytubeSearch} type="text"  placeholder="Paste youtube channel id here..." ></input>
@@ -40,7 +39,6 @@ const App = () => {
       <div>
         <ListItem response = {data} />
       </div>
-    </div>
     </div>
   );
 };
