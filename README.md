@@ -1,8 +1,14 @@
-This project was created with CRA [Create React App].
+This repository was created with CRA [Create React App] and it contains all the files related to YouTube-Playlist app. This app(wha-playlist) is helpful for checking youtube playlist of WHA Warriors.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `git clone https://github.com/RaySunwar/youtube-playlist.git`
+To clone the repository in local environment.
+
+### `yarn install`
+To install the dependencies.
 
 ### `yarn start`
 
