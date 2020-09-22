@@ -30,7 +30,7 @@ const App = () => {
 
   return(
     <div className={styles.container} >
-      <h1><a href="http://localhost:3000/"> YouTube <AiFillYoutube /> Playlist</a></h1>
+      <h1><a href="http://localhost:3000/">YouTube <AiFillYoutube /> Playlist</a></h1>
       <form className={styles.ytubeform}>
         <input ref={inputRef} className={styles.ytubeSearch} type="text"  placeholder="Paste youtube channel id here..." ></input>
         <button onClick={handleClick} className={styles.sbutton} type="button">Submit</button>
