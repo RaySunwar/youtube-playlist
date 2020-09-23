@@ -64,7 +64,7 @@ const ListItem = (props) => {
             </li>
           )
         })
-      };
+      }
     </ul>
   );
 
