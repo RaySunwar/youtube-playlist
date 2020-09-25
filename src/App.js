@@ -48,10 +48,10 @@ const ListItem = (props) => {
   const listItems = (
     <ul className={styles.grid}>
       {response && response.map((item) => {
-        console.log("Item", item);
-          const { id, snippet } = item;
-          const { title, thumbnails = {}, resourceId } = snippet;
-          const { medium = {} } = thumbnails;
+        console.log("Item", item)
+          const { id, snippet } = item
+          const { title, thumbnails = {}, resourceId } = snippet
+          const { medium = {} } = thumbnails
           
           return(
             <li key={id} className={styles.card}>
